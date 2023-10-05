@@ -22,7 +22,7 @@ http://localhost:8080
 ## Author
 
 * jumard.top
-* manager@jumard.com
+* contact@jumard.com
  
 ## License
 [MIT license](https://en.wikipedia.org/wiki/MIT_License).
