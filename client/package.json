@@ -5,7 +5,10 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build --no-clean",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "servev18": "set NODE_OPTIONS=--openssl-legacy-provider && vue-cli-service serve",
+    "buildv18": "set NODE_OPTIONS=--openssl-legacy-provider && vue-cli-service build --no-clean",
+    "lintv18": "set NODE_OPTIONS=--openssl-legacy-provider && vue-cli-service lint"
   },
   "dependencies": {
     "axios": "^0.19.1",
