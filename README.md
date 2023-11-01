@@ -20,11 +20,15 @@ docker run -p 8000:8000 -it sign-in
  
 http://localhost:8000
   
-## Author
- 
-* jumard.top
-* contact@jumard.com
- 
+## Authors
+
+> bridge LLC in japan
+
+* shkim@jumard.com (member)
+
+## Contact
+* contact@jumard.com 
+
 ## License
 [MIT license](https://en.wikipedia.org/wiki/MIT_License).
  
